@@ -1,7 +1,7 @@
 # 👋 Hi, I'm hoywren
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoywren&show_icons=true&theme=dark&hide_border=true)
+!(https://github-readme-stats.vercel.app/api?username=hoywren&show_icons=true&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hoywren&theme=dark&hide_border=true)
 
